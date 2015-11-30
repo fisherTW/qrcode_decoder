@@ -1,5 +1,4 @@
-# qrcode_decoder
-Implementing Encription and Decription of QR-code
+Encription and Decription of QR-code
 ==============
 This project is my graduation term paper.
 
